@@ -1,0 +1,3 @@
+[submodule "libs/rp2x_sim7080g"]
+	path = libs/rp2x_sim7080g
+	url = git@github.com:VTC-WISDOM/rp2x_sim7080g.git
